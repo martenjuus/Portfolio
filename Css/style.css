@@ -146,21 +146,43 @@ p {
 #Vernazza {
   text-align: Left;
   font-size: 25px;
-  margin-left: 0vb;
   padding: 2px;
 }
 
 #FilmProject {
   text-align: center;
   font-size: 25px;
-  margin-top: -24vb;
+  margin-top: -38vb;
   padding: 2px;
 }
 
 #MinLogo {
   text-align: right;
   font-size: 25px;
-  margin-top: -24vb;
+  margin-top: -38vb;
+  padding: 2px;
+  margin-bottom: 30vb;
+}
+
+/* Teknologi Projects */
+#Powershell {
+  text-align: left;
+  font-size: 25px;
   padding: 2px;
 }
 
+#DataSikkerhet {
+  text-align: right;
+  font-size: 25px;
+  margin-top: -68vb;
+  padding: 2px;
+  margin-bottom: 30vb;
+}
+
+#Nettverk {
+  text-align: center;
+  font-size: 25px;
+  padding: 2px;
+  margin-top: -39vb;
+  margin-bottom: 30vb;
+}
